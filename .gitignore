@@ -8,3 +8,4 @@ build/
 .next/
 .vite/
 *.log
+data/admin-credentials.json
